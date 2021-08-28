@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**TEAM-BENGEK/team-bengek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# INSTALL
+```
+$ pkg update && upgrade  
+$ termux-setup-storage  
+$ pkg install python  
+$ pkg install git  
+$ pip install cython
+$ pip install bs4  
+pip install requests  
+$ pip install mechanize  
+$ pip install futures
+$ git clone https://github.com/TEAM-BENGEK/team-bengek
+$ cd team-bengek
+$ ls
+$ python crack.py
+```
